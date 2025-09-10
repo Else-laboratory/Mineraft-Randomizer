@@ -13,4 +13,6 @@ Support : Bedrock Edition v1.21.100
 
 配信や動画などに使用する場合は、概要欄等にクレジットを記載してください。
 
-例：使用アドオン：
+例：使用アドオン：https://note.com/elsengineer020/n/n8ed8870d9860?sub_rt=share_pb
+
+また、自作発言や二次配布は禁止です。
